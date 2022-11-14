@@ -726,24 +726,24 @@ L 311.714985 72.601494
   </g>
   <g id="axes_1">
    <g id="line2d_31">
-    <path clip-path="url(#p87b6274f0c)" d="M 67.932161 255.926137 
+    <path clip-path="url(#p5b224ad02a)" d="M 67.932161 255.926137 
 L 210.125749 300.831967 
 " style="fill:none;stroke:#ff0000;stroke-linecap:square;stroke-width:2;"/>
    </g>
    <g id="line2d_32">
-    <path clip-path="url(#p87b6274f0c)" d="M 67.932161 255.926137 
+    <path clip-path="url(#p5b224ad02a)" d="M 67.932161 255.926137 
 L 151.213538 185.90103 
 " style="fill:none;stroke:#008000;stroke-linecap:square;stroke-width:2;"/>
    </g>
    <g id="line2d_33">
-    <path clip-path="url(#p87b6274f0c)" d="M 67.932161 255.926137 
+    <path clip-path="url(#p5b224ad02a)" d="M 67.932161 255.926137 
 L 62.144468 101.667083 
 " style="fill:none;stroke:#0000ff;stroke-linecap:square;stroke-width:2;"/>
    </g>
   </g>
  </g>
  <defs>
-  <clipPath id="p87b6274f0c">
+  <clipPath id="p5b224ad02a">
    <rect height="326.16" width="334.8" x="7.2" y="7.2"/>
   </clipPath>
  </defs>
